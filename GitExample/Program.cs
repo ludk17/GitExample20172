@@ -12,6 +12,8 @@ namespace GitExample
         {
             Console.WriteLine("Elki Mimar");
             Console.ReadLine();
+            Console.WriteLine("Ronald Uriarte");
+            Console.ReadLine();
 
             Console.WriteLine("Cristian");
             Console.ReadLine();
