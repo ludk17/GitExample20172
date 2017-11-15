@@ -10,8 +10,7 @@ namespace GitExample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Luis Mendoza");
-            Console.WriteLine("Victor Llerena");
+            Console.WriteLine("Elki Mimar");
             Console.ReadLine();
         }
     }
