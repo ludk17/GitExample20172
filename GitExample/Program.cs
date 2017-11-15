@@ -17,12 +17,12 @@ namespace GitExample
             Console.WriteLine("Elki Mimar");
             Console.WriteLine("Vamos Vamos Perú");            
             Console.WriteLine("Ronald Uriarte");
-            Console.ReadLine();
+            
             Console.WriteLine("Vengo del futuro, el jueves se trabaja normal");
             Console.WriteLine("Chile sin mundial");
             Console.WriteLine("Franklin Ayay");
             Console.WriteLine("Prueba 2 ELki");
-
+            Console.ReadLine();
         }
     }
 }
