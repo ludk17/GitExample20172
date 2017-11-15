@@ -43,11 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Mendoza.cs" />
-    <Compile Include="LlerenaCaballero.cs" />
+    <Compile Include="Herrera.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Villoslada.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
