@@ -44,7 +44,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Chavarria.cs" />
-    <Compile Include="Chavarria1.cs" />
     <Compile Include="ELKI.cs" />
     <Compile Include="Herrera.cs" />
     <Compile Include="LlerenaCaballero.cs" />
