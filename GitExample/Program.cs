@@ -10,11 +10,13 @@ namespace GitExample
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Luis Mendoza");
             Console.WriteLine("Elki Mimar");
-            Console.ReadLine();
+            Console.WriteLine("Vamos Vamos Perú");            
             Console.WriteLine("Ronald Uriarte");
             Console.ReadLine();
 
+           
             Console.WriteLine("Cristian");
             Console.ReadLine();
 

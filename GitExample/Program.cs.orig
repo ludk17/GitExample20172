@@ -10,7 +10,10 @@ namespace GitExample
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Luis Mendoza");
             Console.WriteLine("Elki Mimar");
+            Console.WriteLine("Vamos Vamos Perú");            
+            Console.WriteLine("Ronald Uriarte");
             Console.ReadLine();
 <<<<<<< HEAD
 
@@ -19,9 +22,8 @@ namespace GitExample
 
 
 =======
-            Console.WriteLine("Ronald Uriarte");
-            Console.ReadLine();
->>>>>>> e1aa63ad2a5c8193af30385d9070480b4b842898
+           
+>>>>>>> 7b80033f974e695441815c2edbc3236e2bb189ac
         }
     }
 }
