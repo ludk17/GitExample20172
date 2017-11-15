@@ -31,6 +31,9 @@ namespace GitExample
 
             Console.WriteLine("Cristian Villoslada");
 
+            Console.WriteLine("Video para Motivarnos con el PUSH");
+            Console.WriteLine("https://www.youtube.com/watch?v=TNsOqVBzrYo");
+
             Console.ReadLine();
 
 
