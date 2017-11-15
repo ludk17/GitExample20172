@@ -14,23 +14,28 @@ namespace GitExample
             Console.WriteLine("Luis Mendoza");
             Console.WriteLine("Kavs");
             Console.WriteLine("Jimmy Herrera");
+            
+            
             Console.WriteLine("Vengo del futuro, el jueves se trabaja normal");
             Console.WriteLine("Elki Mimar");
             Console.WriteLine("Vamos Vamos Perú");            
             Console.WriteLine("Ronald Uriarte");
             Console.ReadLine();
-<<<<<<< HEAD
            
+            Console.WriteLine("Vengo del futuro, el jueves se trabaja normal");
+            Console.WriteLine("Vengo del futuro, el jueves se trabaja normal");
+<<<<<<< HEAD
 
          
+=======
+            Console.WriteLine("Franklin Ayay");
+>>>>>>> 00296ae7b7239f93a133743ee8593c02133a2fae
+            Console.WriteLine("Prueba 2 ELki");
+
            
           
            
 
-=======
-            Console.WriteLine("Vengo del futuro, el jueves se trabaja normal");
-            Console.WriteLine("Prueba 2 ELki");
->>>>>>> 41ae218d7375f8ac8b8dbd846e2d2230490db663
 
         }
     }
