@@ -58,14 +58,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Herrera.cs" />
     <Compile Include="Chavarria.cs" />
+    <Compile Include="Chavarria1.cs" />
+    <Compile Include="ELKI.cs" />
+    <Compile Include="Herrera.cs" />
+    <Compile Include="LlerenaCaballero.cs" />
     <Compile Include="Mendoza.cs" />
     <Compile Include="ELKI.cs" />
     <Compile Include="LlerenaCaballero.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Veras.cs" />
+    <Compile Include="uriarte.cs" />
     <Compile Include="Villoslada.cs" />
   </ItemGroup>
   <ItemGroup>
