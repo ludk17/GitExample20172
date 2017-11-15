@@ -12,7 +12,7 @@ namespace GitExample
         {
             Console.WriteLine("Cristian");
             Console.WriteLine("Luis Mendoza");
-            Console.WriteLine("Victor Llerena");
+            Console.WriteLine("Kavs");
             Console.WriteLine("Jimmy Herrera");
             Console.WriteLine("Vengo del futuro, el jueves se trabaja normal");
             Console.WriteLine("Elki Mimar");
