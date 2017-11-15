@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GitExample
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Elki Mimar");
+            Console.ReadLine();
+<<<<<<< HEAD
+
+            Console.WriteLine("Cristian");
+            Console.ReadLine();
+
+
+=======
+            Console.WriteLine("Ronald Uriarte");
+            Console.ReadLine();
+>>>>>>> e1aa63ad2a5c8193af30385d9070480b4b842898
+        }
+    }
+}
