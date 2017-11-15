@@ -303,9 +303,3 @@ __pycache__/
 
 # OpenCover UI analysis results
 OpenCover/
-<<<<<<< HEAD
-
-**.origin
-=======
-*.orig
->>>>>>> 7b80033f974e695441815c2edbc3236e2bb189ac
