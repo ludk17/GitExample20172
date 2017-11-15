@@ -10,6 +10,7 @@ namespace GitExample
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Cristian");
             Console.WriteLine("Luis Mendoza");
             Console.WriteLine("Victor Llerena");
             Console.WriteLine("Jimmy Herrera");
@@ -22,8 +23,8 @@ namespace GitExample
 
             Console.WriteLine("Vengo del futuro, el jueves se trabaja normal");
            
-            Console.WriteLine("Cristian");
-            Console.ReadLine();
+          
+           
 
 
         }
