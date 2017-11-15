@@ -13,7 +13,6 @@ namespace GitExample
         
             Console.WriteLine("Luis Mendoza");
             Console.WriteLine("Kavs");
-            Console.WriteLine("Kevin Vera");
             Console.WriteLine("Jimmy Herrera");
             
             
@@ -21,21 +20,23 @@ namespace GitExample
             Console.WriteLine("Elki Mimar");
             Console.WriteLine("Vamos Vamos Perú");            
             Console.WriteLine("Ronald Uriarte");
-            
+      
            
             Console.WriteLine("Vengo del futuro, el jueves se trabaja normal");
+<<<<<<< HEAD
             Console.WriteLine("Vengo del futuro, el jueves se trabaja normal");
 
+=======
+            Console.WriteLine("Chile sin mundial");
+>>>>>>> 4c736469d1de35cd086f615a7e4130f54763d229
             Console.WriteLine("Franklin Ayay");
          
             Console.WriteLine("Prueba 2 ELki");
-            Console.ReadLine();
+
             Console.WriteLine("Cristian Villoslada");
 
-            Console.WriteLine("Video para Motivarnos con el PUSH");
-            Console.WriteLine("https://www.youtube.com/watch?v=TNsOqVBzrYo");
-
             Console.ReadLine();
+
 
 
 
