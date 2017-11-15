@@ -58,6 +58,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Herrera.cs" />
     <Compile Include="Chavarria.cs" />
     <Compile Include="Mendoza.cs" />
     <Compile Include="ELKI.cs" />
