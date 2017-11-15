@@ -18,7 +18,7 @@ namespace GitExample
             Console.WriteLine("Vamos Vamos Perú");            
             Console.WriteLine("Ronald Uriarte");
             Console.ReadLine();
-           
+            Console.WriteLine("Vengo del futuro, el jueves se trabaja normal");
         }
     }
 }
