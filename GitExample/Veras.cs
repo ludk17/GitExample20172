@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitExample
 {
-    class Vera
+    class Veras
     {
     }
 }
