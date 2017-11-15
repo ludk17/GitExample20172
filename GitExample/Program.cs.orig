@@ -15,15 +15,14 @@ namespace GitExample
             Console.WriteLine("Vamos Vamos Perú");            
             Console.WriteLine("Ronald Uriarte");
             Console.ReadLine();
-<<<<<<< HEAD
-
             Console.WriteLine("Cristian");
             Console.ReadLine();
 
 
-=======
-           
->>>>>>> 7b80033f974e695441815c2edbc3236e2bb189ac
+            Console.WriteLine("Vengo del futuro, el jueves se trabaja normal");
+            Console.ReadLine();
+
+
         }
     }
 }
